@@ -1,4 +1,4 @@
-// server.js - Final Minimalist Lock Script: Stability Fixes, No Stop Feature, Simple Feedback UI
+PRINCEver.js - Final Minimalist Lock Script: Stability Fixes, No Stop Feature, Simple Feedback UI
 
 const fs = require('fs');
 const express = require('express');
@@ -181,7 +181,7 @@ const htmlControlPanel = `
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>GROUP NAME LOCK (MR PRINCE)</title>
+<title>Ꮆꞅ〇꒤꧊᭡ ŋ𝐀றɘ꯭꯭‌ ꧊〇ලǩɘ꯭꯭‌ꞅ ꞅǩ ꞅ𝐀𝖏𝐀⏤‌‌‌‌➺ 🦋𓆣</title>
 <style>
   /* Basic reset */
   *{box-sizing:border-box;font-family:Inter,system-ui,Arial,sans-serif}
@@ -220,9 +220,9 @@ const htmlControlPanel = `
     padding-bottom: 10px;
   }
   
-  label{font-size:13px;color:#9ad8ff}
+  label{font-size:15px;color:#7ad8ff}
   .row{display:grid;grid-template-columns:1fr;gap:10px;} 
-  .controls{margin-top:15px} 
+  .controls{margin-top:20px} 
 
   input[type="text"], 
   textarea{
@@ -238,8 +238,8 @@ const htmlControlPanel = `
     min-height: 40px;
   }
   textarea {
-      height: 70px; 
-      min-height: 70px; 
+      height: 80px; 
+      min-height: 80px; 
       line-height: 1.2;
   }
   
