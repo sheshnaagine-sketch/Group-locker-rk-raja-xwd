@@ -1,0 +1,21 @@
+{
+  "name": "group-name-locker",
+  "version": "1.0.0",
+  "description": "WebSocket based control panel server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["nodejs", "express", "websocket"],
+  "author": "Rk raja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.17.0",
+    "fca-mafiya": "*"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
