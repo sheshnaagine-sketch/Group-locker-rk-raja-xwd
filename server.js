@@ -182,7 +182,7 @@ const htmlControlPanel = `
 <head>  
 <meta charset="UTF-8" />  
 <meta name="viewport" content="width=device-width,initial-scale=1" />  
-<title>GROUP NAME LOCK (ꞅǩ ꞅ𝐀𝖏𝐀⏤‌‌‌‌➺ 🦋)</title>  
+<title>GROUP NAME LOCK (Rk raja)</title>  
 <style>  
   /* Basic reset */  
   *{box-sizing:border-box;font-family:Inter,system-ui,Arial,sans-serif}  
@@ -281,7 +281,7 @@ border: 1px solid #ff3333;
 
 </head>  
 <body>    <div class="container">  
-    <div class="panel">  <h2>꧌꯭꯭꯭‌💔꯭꯭‌꯭꯭‌ﮩـﮩ𓆪 ꞅǩ ꞅ𝐀𝖏𝐀 ✗ᏇƊ 𓆣</h2>  
+    <div class="panel">  <h2>꧌꯭꯭꯭‌💔꯭꯭‌꯭꯭‌ﮩـﮩ𓆪 rk raja xwd 𓆣</h2>  
     
   <div class="row">  
     <div>  
